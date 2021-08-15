@@ -1,4 +1,4 @@
-# Junior Web Developer - Final Project - Task Planner Web App
+# Junior Full Stack Java Developer - Final Project #1 - Task Planner Web App
 
 
 **General Objectives**
